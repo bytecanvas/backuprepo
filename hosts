@@ -1,0 +1,124 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+## Blocked Sites 
+#1. News Sites 
+127.0.0.1	nepalnews.com
+127.0.0.1	thehimalayantimes.com
+127.0.0.1	kathmandupost.com
+127.0.0.1	www.onlinekhabar.com
+127.0.0.1	www.ratopati.com
+127.0.0.1	www.setopati.com
+127.0.0.1	myrepublica.nagariknetwork.com
+127.0.0.1	gorkhapatraonline.com
+127.0.0.1	www.himalkhabar.com
+127.0.0.1	rajdhanidaily.com
+127.0.0.1	bizmandu.com
+127.0.0.1	hamrobazaar.com
+127.0.0.1	nagariknews.nagariknetwork.com
+127.0.0.1	www.nayapatrikadaily.com
+127.0.0.1	www.abhiyandaily.com
+127.0.0.1	newsofnepal.com
+127.0.0.1	www.dcnepal.com
+127.0.0.1	nepalipost.com
+
+#2. Job Sites
+127.0.0.1	merojob.com
+127.0.0.1	www.jobsnepal.com
+127.0.0.1	jobaxle.com
+127.0.0.1	www.jobejee.com
+127.0.0.1	www.kumarijob.com
+127.0.0.1	froxjob.com
+127.0.0.1	kantipurjob.com
+127.0.0.1	rollingnexus.com
+127.0.0.1	www.globaljob.com.np
+127.0.0.1	hamrodevjobs.com
+
+#3. Social Media
+127.0.0.1	quora.com
+127.0.0.1	www.wechat.com
+127.0.0.1	www.tiktok.com
+127.0.0.1	www.douyin.com
+127.0.0.1	im.qq.com
+127.0.0.1	weibo.com
+127.0.0.1	www.kuaishou.com
+127.0.0.1	www.snapchat.com
+127.0.0.1	qzone.qq.com
+127.0.0.1	twitter.com
+127.0.0.1	tieba.baidu.com
+127.0.0.1	www.viber.com
+127.0.0.1	line.me
+127.0.0.1	picsart.com
+127.0.0.1	likee.video
+127.0.0.1	www.twitch.tv
+
+#4. Nepali Companies 
+127.0.0.1	f1soft.com
+127.0.0.1	www.f1soft.com
+127.0.0.1	golchhagroup.com.np
+127.0.0.1	www.genesesolution.com
+127.0.0.1	genesesolution.com
+127.0.0.1	adex.ltd
+127.0.0.1	infodev.com.np
+127.0.0.1	fintech.com.np
+127.0.0.1	asterdio.com
+127.0.0.1	ebpearls.com.au
+
+#7. Blocked till Exam
+127.0.0.1	reddit.com
+127.0.0.1	www.reddit.com
+127.0.0.1	www.facebook.com
+127.0.0.1	facebook.com
+127.0.0.1	www.movi.pk	
+127.0.0.1	aniwatchtv.to
+127.0.0.1	www.linkedin.com  
+127.0.0.1	web.telegram.org/k/
+127.0.0.1	web.telegram.org
+127.0.0.1	fmoviesz.ms 
+127.0.0.1	himovies.sx 
+127.0.0.1	instagram.com
+127.0.0.1	www.instagram.com
+127.0.0.1	www.discord.com
+127.0.0.1	discord.com
+
+#6. Adult Sites
+127.0.0.1	theporndude.com
+127.0.0.1	www.pornhub.com
+127.0.0.1	www.xvideos.com
+127.0.0.1	xhamster.com
+127.0.0.1	www.xnxx.com
+127.0.0.1	www.eporner.com
+127.0.0.1	hqporner.com
+127.0.0.1	beeg.com
+127.0.0.1	spankbang.com
+127.0.0.1	www.porntrex.com
+127.0.0.1	xmoviesforyou.com
+127.0.0.1	www.porngo.com
+127.0.0.1	mangoporn.co
+127.0.0.1	mangoporn.net
+127.0.0.1	www.youjizz.com
+127.0.0.1	motherless.com
+127.0.0.1	www.redtube.com
+127.0.0.1	www.webtoon.xyz
+127.0.0.1   www.tlgrm.eu/channels
+127.0.0.1	tlgrm.eu/channels
+# Blocked sites from MySQL - 2025-07-12 07:59:01
