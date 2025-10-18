@@ -1,0 +1,40 @@
+# List of Installed Applications
+
+- **7Zip**
+- **AIMP**
+- **Auto Hot Key**
+- **Bitwarden**
+- **Caesium Image Compressor**
+- **Ungoogled Chromium**
+- **Classic Paint**
+- **CopyQ**
+- **CPUID HWMonitor**
+- **Display Driver Uninstaller**
+- **Everything**
+- **ExifCleaner**
+- **FastStone Capture**
+- **FXSound**
+- **Lightbulb**
+- **Firefox**
+- **Musicpod**
+- **Notepad++**
+- **Nu Shell**
+- **Office 2024 (Excel & Word)**
+- **Open Hash Tab**
+- **Oracle Virtual Box**
+- **PDF Gear**
+- **Picocrypt**
+- **Pomatez**
+- **Power Toys**
+- **Rainmeter**
+- **ShareX**
+- **Simplenote**
+- **SpeedCrunch**
+- **SuperF4**
+- **System Informer**
+- **VLC Media Player**
+- **VMWare Workstation**
+- **VSCodium**
+- **Winaero Tweaker**
+- **XnView MP**
+- **Xournal++**
