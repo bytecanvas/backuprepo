@@ -1,2 +1,2 @@
-# hosts
-personal host file
+# Backuprepo
+personal repo of backup files and settings
