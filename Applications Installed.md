@@ -3,9 +3,10 @@
 - **7Zip**
 - **AIMP**
 - **Auto Hot Key**
+- **Battery Mode**
 - **Bitwarden**
 - **Caesium Image Compressor**
-- **Ungoogled Chromium**
+- **Chromium (Ungoogled)**
 - **Classic Paint**
 - **CopyQ**
 - **CPUID HWMonitor**
@@ -14,8 +15,9 @@
 - **ExifCleaner**
 - **FastStone Capture**
 - **FXSound**
+- **Greenshot**
 - **Lightbulb**
-- **Firefox**
+- **Mozilla Firefox**
 - **Musicpod**
 - **Notepad++**
 - **Nu Shell**
