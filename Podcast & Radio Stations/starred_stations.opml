@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Starred Stations</title>
+  </head>
+  <body>
+    <outline text="Starred Stations" title="Starred Stations">
+      <outline text="bd1c441c-132a-4d48-a3f3-bdb386f4b09a"/>
+      <outline text="ba093e53-c020-484b-a6a6-b184e7382744"/>
+      <outline text="cadd6537-1841-4127-a98c-dba96a7c5417"/>
+      <outline text="40819a21-3b7e-11ea-8dd7-52543be04c81"/>
+      <outline text="0b6cc5a0-f5a0-4a62-b128-e48153fd864c"/>
+      <outline text="21ab678c-ff19-4314-9969-165e15b4210d"/>
+      <outline text="717e3749-b9e8-4497-bd6a-61ccec935922"/>
+      <outline text="3bce97cc-419f-4679-96a8-954fe56706ee"/>
+      <outline text="87906f1e-5f82-4b86-9865-69e8eab8a69a"/>
+      <outline text="ed9f66a4-6c15-4cce-8279-dbb5f0f0d83a"/>
+      <outline text="bf97c17e-5fda-4420-83ad-7ae423324467"/>
+      <outline text="11db7327-9ceb-4ad6-a00f-7f68ac3d20ed"/>
+      <outline text="d9b11ab6-74f0-4be0-a104-2e68c1ee3c4f"/>
+    </outline>
+  </body>
+</opml>
