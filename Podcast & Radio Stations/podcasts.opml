@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Podcasts</title>
+  </head>
+  <body>
+    <outline text="Podcasts" title="Podcasts" type="rss">
+      <outline text="News in Slow German" title="German for Beginners" type="rss" xmlUrl="https://feeds.libsyn.com/560775/rss"/>
+      <outline text="Linguistica 360" title="News in Slow German (Intermediate)" type="rss" xmlUrl="https://feeds.libsyn.com/85667/rss"/>
+      <outline text="Coffee Break Languages" title="Coffee Break German Advanced" type="rss" xmlUrl="https://feeds.acast.com/public/shows/coffee-break-german-advanced"/>
+      <outline text="Coffee Break Languages" title="Coffee Break German" type="rss" xmlUrl="https://feeds.acast.com/public/shows/0c3c53a1-180f-435a-9453-cec3883b4ada"/>
+      <outline text="Cari, Manuel und das Team von Easy German" title="Easy German: Learn German with native speakers | Deutsch lernen mit Muttersprachlern" type="rss" xmlUrl="https://proxyfeed.svmaudio.com/feeds/easygerman/feed.xml"/>
+      <outline text="Sascha Schmidt" title="Deutsch mit Schmidt | Advanced German Language Learning Podcast ( B1 / B2 / C1 / C2 )" type="rss" xmlUrl="https://6byima.podcaster.de/deutschmitschmidt.rss"/>
+      <outline text="german-stories.com" title="German Stories - Learn German with Stories | Deutsch lernen mit Geschichten" type="rss" xmlUrl="https://feed.podbean.com/german-stories/feed.xml"/>
+      <outline text="Daniela Fries" title="German with Stories Podcast" type="rss" xmlUrl="https://anchor.fm/s/ea41abf0/podcast/rss"/>
+      <outline text="expertlygerman.com" title="Learn German | Deutsch lernen | ExpertlyGerman Podcast" type="rss" xmlUrl="https://anchor.fm/s/2a5bbf9c/podcast/rss"/>
+      <outline text="Deutsch lernen durch Hören" title="Deutsch lernen durch Hören" type="rss" xmlUrl="https://anchor.fm/s/fee008e0/podcast/rss"/>
+      <outline text="Deutschlandfunk" title="Marktplatz" type="rss" xmlUrl="https://www.deutschlandfunk.de/marktplatz-102.xml"/>
+      <outline text="Babbel" title="Speaking of Berlin" type="rss" xmlUrl="https://www.spreaker.com/show/4675069/episodes/feed"/>
+      <outline text="Jack Rhysider" title="Darknet Diaries" type="rss" xmlUrl="https://podcast.darknetdiaries.com"/>
+      <outline text="Red Hat" title="Command Line Heroes" type="rss" xmlUrl="https://feeds.simplecast.com/vUHP7wpf"/>
+      <outline text="Malicious Life" title="Malicious Life" type="rss" xmlUrl="https://feeds.redcircle.com/597cfd00-b29a-49c6-9622-03c8decfc35f"/>
+      <outline text="Political Theory 101" title="Political Theory 101" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:607750389/sounds.rss"/>
+      <outline text="N2K Networks" title="Hacking Humans" type="rss" xmlUrl="https://rss.pdrl.fm/7d51b0/feeds.megaphone.fm/hacking-humans"/>
+      <outline text="Rafal (Wh1t3Rabbit) Los" title="Down the Security Rabbithole Podcast (DtSR)" type="rss" xmlUrl="https://feeds.buzzsprout.com/2153215.rss"/>
+      <outline text="Ken Rudin" title="Ken Rudin's Political Junkie" type="rss" xmlUrl="https://www.krpoliticaljunkie.com/feed/podcast/"/>
+      <outline text="Politics Theory Other" title="Politics Theory Other" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:82993400/sounds.rss"/>
+      <outline text="Center for Strategic and International Studies" title="Pekingology" type="rss" xmlUrl="https://feeds.megaphone.fm/pekingology"/>
+      <outline text="Larchmont Productions" title="Politics on the Couch" type="rss" xmlUrl="https://feeds.acast.com/public/shows/6462652801a21a001146cc01"/>
+      <outline text="The Politics Lab" title="The Politics Lab" type="rss" xmlUrl="https://buffalo-wedge-j2rw.squarespace.com/episodes?format=rss"/>
+      <outline text="Michael Bossetta" title="Social Media and Politics" type="rss" xmlUrl="https://feeds.simplecast.com/kFf3a1TM"/>
+    </outline>
+  </body>
+</opml>
