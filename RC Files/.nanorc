@@ -1,0 +1,31 @@
+## Nano settings
+
+# Syntax highlighting
+include "/usr/share/nano/*.nanorc"
+
+# Display line numbers
+set linenumbers
+
+# Enable mouse support
+set mouse
+
+# Show the cursor position
+set constantshow
+
+# Enable smooth scrolling
+set smooth
+
+# Show the current line/column position
+set positionlog
+
+# Enable case sensitive search
+set casesensitive
+
+# Enable automatic indentation
+set autoindent
+
+# Enable soft wrapping
+set softwrap
+
+# Display the scrollbar
+set scrolloff
