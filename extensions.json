@@ -1,0 +1,502 @@
+[
+  {
+    "identifier": {
+      "id": "bierner.markdown-preview-github-styles",
+      "uuid": "5cbdf58a-694a-4aba-af08-61d00842eb03"
+    },
+    "version": "0.1.6",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/neongrid/.vscode-oss/extensions/bierner.markdown-preview-github-styles-0.1.6-universal",
+      "scheme": "file"
+    },
+    "relativeLocation": "bierner.markdown-preview-github-styles-0.1.6-universal",
+    "metadata": {
+      "installedTimestamp": 1760698132089,
+      "pinned": false,
+      "source": "gallery",
+      "id": "5cbdf58a-694a-4aba-af08-61d00842eb03",
+      "publisherId": "f164f116-e2aa-496b-84dc-2451248e8beb",
+      "publisherDisplayName": "bierner",
+      "targetPlatform": "universal",
+      "updated": false,
+      "private": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "zaaack.markdown-editor",
+      "uuid": "d1d5603c-2be4-4f1b-b7b6-d7e908a8ad73"
+    },
+    "version": "0.1.9",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/neongrid/.vscode-oss/extensions/zaaack.markdown-editor-0.1.9-universal",
+      "scheme": "file"
+    },
+    "relativeLocation": "zaaack.markdown-editor-0.1.9-universal",
+    "metadata": {
+      "installedTimestamp": 1760698136414,
+      "pinned": false,
+      "source": "gallery",
+      "id": "d1d5603c-2be4-4f1b-b7b6-d7e908a8ad73",
+      "publisherId": "6131e0ca-41c1-40fb-9cac-0e7e0d416566",
+      "publisherDisplayName": "zaaack",
+      "targetPlatform": "universal",
+      "updated": false,
+      "private": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "yzane.markdown-pdf",
+      "uuid": "f015bc3c-a098-4245-8765-615e002e09ab"
+    },
+    "version": "1.5.0",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/neongrid/.vscode-oss/extensions/yzane.markdown-pdf-1.5.0-universal",
+      "scheme": "file"
+    },
+    "relativeLocation": "yzane.markdown-pdf-1.5.0-universal",
+    "metadata": {
+      "installedTimestamp": 1760698143442,
+      "pinned": false,
+      "source": "gallery",
+      "id": "f015bc3c-a098-4245-8765-615e002e09ab",
+      "publisherId": "86794f67-46a8-4137-a5a4-1415a0e41e7d",
+      "publisherDisplayName": "yzane",
+      "targetPlatform": "universal",
+      "updated": false,
+      "private": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "davidanson.vscode-markdownlint",
+      "uuid": "daf8b44d-8aae-4da2-80c5-1f770219f643"
+    },
+    "version": "0.60.0",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/neongrid/.vscode-oss/extensions/davidanson.vscode-markdownlint-0.60.0-universal",
+      "scheme": "file"
+    },
+    "relativeLocation": "davidanson.vscode-markdownlint-0.60.0-universal",
+    "metadata": {
+      "installedTimestamp": 1760698393844,
+      "pinned": false,
+      "source": "gallery",
+      "id": "daf8b44d-8aae-4da2-80c5-1f770219f643",
+      "publisherId": "2e4d1cda-6ef0-4e42-a352-ab540afe8ff0",
+      "publisherDisplayName": "DavidAnson",
+      "targetPlatform": "universal",
+      "updated": false,
+      "private": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "pkief.markdown-checkbox",
+      "uuid": "f0b7de7d-8e14-44df-998a-630ffdb32cf8"
+    },
+    "version": "1.10.0",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/neongrid/.vscode-oss/extensions/pkief.markdown-checkbox-1.10.0-universal",
+      "scheme": "file"
+    },
+    "relativeLocation": "pkief.markdown-checkbox-1.10.0-universal",
+    "metadata": {
+      "installedTimestamp": 1760698406444,
+      "pinned": false,
+      "source": "gallery",
+      "id": "f0b7de7d-8e14-44df-998a-630ffdb32cf8",
+      "publisherId": "f9e5bc2f-fea1-4075-917f-d83e01e69f56",
+      "publisherDisplayName": "PKief",
+      "targetPlatform": "universal",
+      "updated": false,
+      "private": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "fcrespo82.markdown-table-formatter",
+      "uuid": "db9e305f-2d5a-44a5-97f7-91d4f2199a81"
+    },
+    "version": "3.0.0",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/neongrid/.vscode-oss/extensions/fcrespo82.markdown-table-formatter-3.0.0-universal",
+      "scheme": "file"
+    },
+    "relativeLocation": "fcrespo82.markdown-table-formatter-3.0.0-universal",
+    "metadata": {
+      "installedTimestamp": 1760698447651,
+      "pinned": false,
+      "source": "gallery",
+      "id": "db9e305f-2d5a-44a5-97f7-91d4f2199a81",
+      "publisherId": "59f372a7-86a5-4352-ba0d-b8ac1e60f927",
+      "publisherDisplayName": "fcrespo82",
+      "targetPlatform": "universal",
+      "updated": false,
+      "private": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "yzhang.markdown-all-in-one",
+      "uuid": "98790d67-10fa-497c-9113-f6c7489207b2"
+    },
+    "version": "3.6.2",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/neongrid/.vscode-oss/extensions/yzhang.markdown-all-in-one-3.6.2-universal",
+      "scheme": "file"
+    },
+    "relativeLocation": "yzhang.markdown-all-in-one-3.6.2-universal",
+    "metadata": {
+      "installedTimestamp": 1760698463155,
+      "pinned": false,
+      "source": "gallery",
+      "id": "98790d67-10fa-497c-9113-f6c7489207b2",
+      "publisherId": "36c8b41c-6ef6-4bf5-a5b7-65bef29b606f",
+      "publisherDisplayName": "yzhang",
+      "targetPlatform": "universal",
+      "updated": false,
+      "private": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "repreng.csv",
+      "uuid": "f2e80b0c-f33b-40ca-a3a5-bdaf53823a83"
+    },
+    "version": "1.2.2",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/neongrid/.vscode-oss/extensions/repreng.csv-1.2.2-universal",
+      "scheme": "file"
+    },
+    "relativeLocation": "repreng.csv-1.2.2-universal",
+    "metadata": {
+      "installedTimestamp": 1760698549776,
+      "pinned": false,
+      "source": "gallery",
+      "id": "f2e80b0c-f33b-40ca-a3a5-bdaf53823a83",
+      "publisherId": "5a7c9a42-67e0-42c9-9c53-c559b5f2aa25",
+      "publisherDisplayName": "ReprEng",
+      "targetPlatform": "universal",
+      "updated": false,
+      "private": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "mechatroner.rainbow-csv",
+      "uuid": "3792588c-3d35-442d-91ea-fe6a755e8155"
+    },
+    "version": "3.3.0",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/neongrid/.vscode-oss/extensions/mechatroner.rainbow-csv-3.3.0-universal",
+      "scheme": "file"
+    },
+    "relativeLocation": "mechatroner.rainbow-csv-3.3.0-universal",
+    "metadata": {
+      "installedTimestamp": 1760698574202,
+      "pinned": false,
+      "source": "gallery",
+      "id": "3792588c-3d35-442d-91ea-fe6a755e8155",
+      "publisherId": "0d5438b6-325a-4f88-aa28-6192aa2cf2a6",
+      "publisherDisplayName": "mechatroner",
+      "targetPlatform": "universal",
+      "updated": false,
+      "private": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "clemenspeters.format-json",
+      "uuid": "4c6c3577-adb4-4059-8588-3a1be7883e98"
+    },
+    "version": "1.0.3",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/neongrid/.vscode-oss/extensions/clemenspeters.format-json-1.0.3-universal",
+      "scheme": "file"
+    },
+    "relativeLocation": "clemenspeters.format-json-1.0.3-universal",
+    "metadata": {
+      "installedTimestamp": 1760698638897,
+      "pinned": false,
+      "source": "gallery",
+      "id": "4c6c3577-adb4-4059-8588-3a1be7883e98",
+      "publisherId": "8d7d8b28-8993-4047-8b3d-42ba5ead02bb",
+      "publisherDisplayName": "ClemensPeters",
+      "targetPlatform": "universal",
+      "updated": false,
+      "private": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "streetsidesoftware.code-spell-checker",
+      "uuid": "f6dbd813-b0a0-42c1-90ea-10dde9d925a7"
+    },
+    "version": "4.2.6",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/neongrid/.vscode-oss/extensions/streetsidesoftware.code-spell-checker-4.2.6-universal",
+      "scheme": "file"
+    },
+    "relativeLocation": "streetsidesoftware.code-spell-checker-4.2.6-universal",
+    "metadata": {
+      "installedTimestamp": 1760698772033,
+      "pinned": false,
+      "source": "gallery",
+      "id": "f6dbd813-b0a0-42c1-90ea-10dde9d925a7",
+      "publisherId": "67600ca7-88fb-4104-9f7e-dd51c00facf2",
+      "publisherDisplayName": "Street Side Software",
+      "targetPlatform": "universal",
+      "updated": true,
+      "private": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "isApplicationScoped": false,
+      "isMachineScoped": false,
+      "isBuiltin": false,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "streetsidesoftware.code-spell-checker-german",
+      "uuid": "911799f7-d784-4bdc-982b-f78afd435187"
+    },
+    "version": "2.3.4",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/neongrid/.vscode-oss/extensions/streetsidesoftware.code-spell-checker-german-2.3.4-universal",
+      "scheme": "file"
+    },
+    "relativeLocation": "streetsidesoftware.code-spell-checker-german-2.3.4-universal",
+    "metadata": {
+      "installedTimestamp": 1760698772032,
+      "pinned": false,
+      "source": "gallery",
+      "id": "911799f7-d784-4bdc-982b-f78afd435187",
+      "publisherId": "67600ca7-88fb-4104-9f7e-dd51c00facf2",
+      "publisherDisplayName": "Street Side Software",
+      "targetPlatform": "universal",
+      "updated": false,
+      "private": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "ban.spellright",
+      "uuid": "7d236dd4-6af6-48f4-9464-6bf82ad36aaa"
+    },
+    "version": "3.0.144",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/neongrid/.vscode-oss/extensions/ban.spellright-3.0.144-universal",
+      "scheme": "file"
+    },
+    "relativeLocation": "ban.spellright-3.0.144-universal",
+    "metadata": {
+      "installedTimestamp": 1760698816679,
+      "pinned": false,
+      "source": "gallery",
+      "id": "7d236dd4-6af6-48f4-9464-6bf82ad36aaa",
+      "publisherId": "058d2b2f-dac6-41b2-8c3e-462966d45cd6",
+      "publisherDisplayName": "ban",
+      "targetPlatform": "universal",
+      "updated": false,
+      "private": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "mblode.pretty-formatter",
+      "uuid": "66bef598-d384-44ba-ba50-1b1640405519"
+    },
+    "version": "0.2.1",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/neongrid/.vscode-oss/extensions/mblode.pretty-formatter-0.2.1-universal",
+      "scheme": "file"
+    },
+    "relativeLocation": "mblode.pretty-formatter-0.2.1-universal",
+    "metadata": {
+      "installedTimestamp": 1760698894598,
+      "pinned": false,
+      "source": "gallery",
+      "id": "66bef598-d384-44ba-ba50-1b1640405519",
+      "publisherId": "74a8f70d-25a2-4075-b9bf-93b73e0439f6",
+      "publisherDisplayName": "mblode",
+      "targetPlatform": "universal",
+      "updated": false,
+      "private": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "formulahendry.auto-rename-tag",
+      "uuid": "6e440e71-8ed9-4f25-bb78-4b13096b8a03"
+    },
+    "version": "0.1.10",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/neongrid/.vscode-oss/extensions/formulahendry.auto-rename-tag-0.1.10-universal",
+      "scheme": "file"
+    },
+    "relativeLocation": "formulahendry.auto-rename-tag-0.1.10-universal",
+    "metadata": {
+      "installedTimestamp": 1760699324274,
+      "pinned": false,
+      "source": "gallery",
+      "id": "6e440e71-8ed9-4f25-bb78-4b13096b8a03",
+      "publisherId": "38bbe3f0-5204-4170-845e-c2f966d979b8",
+      "publisherDisplayName": "formulahendry",
+      "targetPlatform": "universal",
+      "updated": false,
+      "private": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "formulahendry.auto-close-tag",
+      "uuid": "d3836729-9cc1-42c1-b2af-d50071f57d29"
+    },
+    "version": "0.5.15",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/neongrid/.vscode-oss/extensions/formulahendry.auto-close-tag-0.5.15-universal",
+      "scheme": "file"
+    },
+    "relativeLocation": "formulahendry.auto-close-tag-0.5.15-universal",
+    "metadata": {
+      "installedTimestamp": 1760699327339,
+      "pinned": false,
+      "source": "gallery",
+      "id": "d3836729-9cc1-42c1-b2af-d50071f57d29",
+      "publisherId": "38bbe3f0-5204-4170-845e-c2f966d979b8",
+      "publisherDisplayName": "formulahendry",
+      "targetPlatform": "universal",
+      "updated": false,
+      "private": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "cweijan.cweijan-personal-material-icon-theme",
+      "uuid": "a04dd03c-4cce-418d-8672-f78eca1ae92e"
+    },
+    "version": "5.0.0",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/neongrid/.vscode-oss/extensions/cweijan.cweijan-personal-material-icon-theme-5.0.0-universal",
+      "scheme": "file"
+    },
+    "relativeLocation": "cweijan.cweijan-personal-material-icon-theme-5.0.0-universal",
+    "metadata": {
+      "installedTimestamp": 1760699698306,
+      "pinned": false,
+      "source": "gallery",
+      "id": "a04dd03c-4cce-418d-8672-f78eca1ae92e",
+      "publisherId": "43004267-e6e4-497f-b826-dda371e4ec49",
+      "publisherDisplayName": "cweijan",
+      "targetPlatform": "universal",
+      "updated": false,
+      "private": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "esbenp.prettier-vscode",
+      "uuid": "96fa4707-6983-4489-b7c5-d5ffdfdcce90"
+    },
+    "version": "11.0.0",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/neongrid/.vscode-oss/extensions/esbenp.prettier-vscode-11.0.0-universal",
+      "scheme": "file"
+    },
+    "relativeLocation": "esbenp.prettier-vscode-11.0.0-universal",
+    "metadata": {
+      "installedTimestamp": 1760700107556,
+      "pinned": false,
+      "source": "gallery",
+      "id": "96fa4707-6983-4489-b7c5-d5ffdfdcce90",
+      "publisherId": "d16f4e39-2ffb-44e3-9c0d-79d873570e3a",
+      "publisherDisplayName": "esbenp",
+      "targetPlatform": "universal",
+      "updated": false,
+      "private": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "wildberries-theme.wildberries"
+    },
+    "version": "0.0.1",
+    "location": {
+      "$mid": 1,
+      "fsPath": "c:\\Users\\neongrid\\.vscode-oss\\extensions\\wildberries-theme.wildberries-0.0.1-universal",
+      "_sep": 1,
+      "external": "file:///c%3A/Users/neongrid/.vscode-oss/extensions/wildberries-theme.wildberries-0.0.1-universal",
+      "path": "/c:/Users/neongrid/.vscode-oss/extensions/wildberries-theme.wildberries-0.0.1-universal",
+      "scheme": "file"
+    },
+    "relativeLocation": "wildberries-theme.wildberries-0.0.1-universal",
+    "metadata": {
+      "installedTimestamp": 1761624481476,
+      "pinned": false,
+      "source": "gallery",
+      "id": "1a4245b4-a55b-44d1-8958-f10397e5ce57",
+      "publisherId": "e83fe018-30e9-41b2-89ef-96f029f34ec3",
+      "publisherDisplayName": "wildberries-theme",
+      "targetPlatform": "universal",
+      "updated": false,
+      "private": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false
+    }
+  }
+]
