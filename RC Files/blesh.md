@@ -11,3 +11,14 @@ git clone --recursive --depth 1 --shallow-submodules https://github.com/akinomyo
 make -C ble.sh install PREFIX=~/.local
 echo 'source -- ~/.local/share/blesh/ble.sh' >> ~/.bashrc
 ```
+
+# UPDATE (in a ble.sh session)
+```
+ble-update
+```
+
+# UPDATE (outside ble.sh sessions)
+```
+bash /path/to/ble.sh --update
+```
+
