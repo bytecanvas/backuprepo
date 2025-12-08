@@ -1,42 +1,40 @@
 # List of Installed Applications
 
-- **7Zip**
-- **AIMP**
-- **Auto Hot Key**
-- **Battery Mode**
-- **Bitwarden**
-- **Caesium Image Compressor**
-- **Chromium (Ungoogled)**
-- **Classic Paint**
-- **CopyQ**
-- **CPUID HWMonitor**
-- **Display Driver Uninstaller**
-- **Everything**
-- **ExifCleaner**
-- **FastStone Capture**
-- **FXSound**
-- **Greenshot**
-- **Lightbulb**
-- **Mozilla Firefox**
-- **Musicpod**
-- **Notepad++**
-- **Nu Shell**
+- **[7Zip](https://7-zip.org/)**
+- **[AIMP](https://www.aimp.ru/)**
+- **[App Flowy](https://appflowy.com/)**
+- **[Auto Hot Key](https://www.autohotkey.com/)**
+- **[Battery Mode](https://en.bmode.tarcode.ru/)**
+- **[Bitwarden](https://bitwarden.com/)**
+- **[Caesium Image Compressor](https://github.com/Lymphatus/caesium-image-compressor)**
+- **[Chromium (Ungoogled)](https://ungoogled-software.github.io/ungoogled-chromium-binaries/)** and **[GitHub Repo](https://github.com/ungoogled-software/ungoogled-chromium)**
+- **[Classic Paint](https://winaero.com/windows-10-classic-paint-for-windows-11/)**
+- **[CopyQ](https://hluk.github.io/CopyQ/)**
+- **[CPUID HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html)**
+- **[Everything](https://www.voidtools.com/)**
+- **[ExifCleaner](https://github.com/szTheory/exifcleaner)**
+- **[FastStone Capture](https://www.faststone.org/index.htm)**
+- **[FXSound](https://www.fxsound.com/)**
+- **[Flameshot](https://flameshot.org/)**
+- **[Heidi SQL](https://www.heidisql.com/)**
+- **[Lightbulb](https://github.com/Tyrrrz/LightBulb)**
+- **[Mozilla Firefox](https://www.firefox.com/en-US/download/all/desktop-release/?utm_medium=referral&utm_source=support.mozilla.org)**
+- **[Musicpod](https://github.com/ubuntu-flutter-community/musicpod)**
+- **[MySQL Server](https://www.mysql.com/)**
+- **[Notepad++](https://notepad-plus-plus.org/)**
+- **[Nu Shell](https://www.nushell.sh/)**
 - **Office 2024 (Excel & Word)**
-- **Open Hash Tab**
-- **Oracle Virtual Box**
-- **PDF Gear**
-- **Picocrypt**
-- **Pomatez**
-- **Power Toys**
-- **Rainmeter**
-- **ShareX**
-- **Simplenote**
-- **SpeedCrunch**
-- **SuperF4**
-- **System Informer**
-- **VLC Media Player**
-- **VMWare Workstation**
-- **VSCodium**
-- **Winaero Tweaker**
-- **XnView MP**
-- **Xournal++**
+- **[Open Hash Tab](https://github.com/namazso/OpenHashTab)**
+- **[Oracle Virtual Box](https://www.virtualbox.org/)**
+- **[PDF Gear](https://www.pdfgear.com/)**
+- **[Picocrypt](https://github.com/Picocrypt/Picocrypt)**
+- **[Power Toys](https://github.com/microsoft/PowerToys)**
+- **[Rainmeter](https://www.rainmeter.net/)**
+- **[Simplenote](https://simplenote.com/)**
+- **[SpeedCrunch](https://heldercorreia.bitbucket.io/speedcrunch/)**
+- **[SuperF4](https://stefansundin.github.io/superf4/)**
+- **[VLC Media Player](https://www.videolan.org/vlc/)**
+- **[VSCodium](https://vscodium.com/)**
+- **[Winaero Tweaker](https://winaerotweaker.com/)**
+- **[XnView MP](https://www.xnview.com/en/xnview/)**
+- **[Xournal++](https://xournalpp.github.io/)**
