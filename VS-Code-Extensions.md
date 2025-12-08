@@ -1,0 +1,21 @@
+# VSCode Extensions
+
+- **Auto Close Tag**
+- **Auto Rename Tag**
+- **Code Spell Checker**
+- **CSV**
+- **German Code Spell Checker**
+- **JSON Formatter**
+- **Markdown All in One**
+- **Markdown Checkbox**
+- **Markdown Formatter**
+- **Markdown PDF**
+- **Markdown Preview Github Styling**
+- **Markdown Table Formatter**
+- **Markdown Lint**
+- **Material Icon Theme**
+- **Prettier Code Formatter**
+- **Pretty Formatter**
+- **Rainbow CSV**
+- **Spell Right**
+- **Wildberries**
