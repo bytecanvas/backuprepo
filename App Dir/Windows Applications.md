@@ -17,6 +17,7 @@
 - **[FastStone Capture](https://www.faststone.org/index.htm)**
 - **[FXSound](https://www.fxsound.com/)**
 - **[Flameshot](https://flameshot.org/)**
+- **[Fontbase](https://fontba.se/downloads)**
 - **[Heidi SQL](https://www.heidisql.com/)**
 - **[KDE Connect](https://kdeconnect.kde.org/download.html)**
 - **[Lightbulb](https://github.com/Tyrrrz/LightBulb)**
