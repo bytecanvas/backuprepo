@@ -1,36 +1,41 @@
 {
-  "editor.fontFamily": "Fira Code",
+  "editor.fontFamily": "'FiraCode Nerd Font Mono'",
   "editor.fontLigatures": true,
-  "editor.fontSize": 16,
-  "editor.fontWeight": "500", // Medium
+  "terminal.integrated.fontLigatures.enabled": true,
+  "editor.fontSize": 17,
+  "editor.fontWeight": "500",
   "editor.tabSize": 2,
   "editor.wordWrap": "on",
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.cursorBlinking": "expand",
+  "editor.cursorStyle": "block",
+  "editor.cursorWidth": 1,
   "editor.formatOnSave": true,
   "editor.formatOnPaste": true,
   "editor.formatOnType": true,
 
   // Theme and UI Customizations - Darker Wildberries Customization
   "workbench.colorCustomizations": {
-    "editorGroupHeader.tabsBackground": "#2c2c54", // Darken the tab bar background
-    "activityBar.background": "#1e1e30", // Darker background for activity bar
-    "sideBar.background": "#141422", // Keep sidebar background dark but slightly muted
-    "minimap.background": "#2a2a3a", // Dark minimap background
-    "tab.activeBackground": "#3f3f79", // Darker active tab color
-    "tab.inactiveBackground": "#202038", // Darker inactive tab background
-    "terminal.border": "#2c2c54", // Terminal border darkened
-    "terminal.background": "#1e1e30", // Darker terminal background
-    "statusBar.background": "#35374a", // Darker status bar
-    "scrollbarSlider.background": "#474787", // Darker scrollbar slider
-    "scrollbarSlider.hoverBackground": "#706fd3" // Darker scrollbar slider hover
+    "editorGroupHeader.tabsBackground": "#2c2c54",
+    "activityBar.background": "#1e1e30",
+    "sideBar.background": "#141422",
+    "minimap.background": "#2a2a3a",
+    "tab.activeBackground": "#3f3f79",
+    "tab.inactiveBackground": "#202038",
+    "terminal.border": "#2c2c54",
+    "terminal.background": "#1e1e30",
+    "statusBar.background": "#35374a",
+    "scrollbarSlider.background": "#474787",
+    "scrollbarSlider.hoverBackground": "#706fd3"
   },
+
   "editor.tokenColorCustomizations": {
-    "comments": "#95afc0", // Lighter color for better readability
-    "keywords": "#8a79c7", // Darker keyword color for better contrast
-    "strings": "#98c379", // Slightly brighter strings for contrast
-    "functions": "#9b59b6" // Darker function names
+    "comments": "#95afc0",
+    "keywords": "#8a79c7",
+    "strings": "#98c379",
+    "functions": "#9b59b6"
   },
+
   "editor.linkedEditing": true,
   "editor.bracketPairColorization.enabled": true,
   "editor.guides.bracketPairs": true,
@@ -47,25 +52,37 @@
 
   // AutoSave Settings
   "files.autoSave": "afterDelay",
-  "files.autoSaveDelay": 1000, // Save after 1 second delay for smoother experience
+  "files.autoSaveDelay": 1000,
 
   // Wildberries Theme
-  "workbench.colorTheme": "Wildberries",
-  "workbench.preferredDarkColorTheme": "Wildberries",
-  "workbench.preferredLightColorTheme": "Wildberries",
+  "workbench.colorTheme": "Wildberries Darker",
+  "workbench.preferredDarkColorTheme": "Wildberries Darker",
+  "workbench.preferredLightColorTheme": "Wildberries Darker",
 
   // Reducing Visual Noise
-  "breadcrumbs.enabled": false, // Hide breadcrumbs for cleaner view
-  "editor.minimap.enabled": false, // Minimaps disabled to reduce clutter
-  "editor.renderLineHighlight": "gutter", // Highlights only line number
+  "breadcrumbs.enabled": false,
+  "editor.minimap.enabled": false,
+  "editor.renderLineHighlight": "gutter",
   "editor.smoothScrolling": true,
-  "explorer.decorations.colors": false, // Hides activity bar for cleaner workspace
-  "workbench.editor.showIcons": false, // Disables file icons in editor tabs
-  "workbench.editor.tabSizing": "shrink", // Shrink tabs to maximize space
-  "workbench.statusBar.visible": false, // Hides status bar for minimal distractions
+  "explorer.decorations.colors": false,
+  "workbench.editor.showIcons": false,
+  "workbench.editor.tabSizing": "shrink",
+  "workbench.statusBar.visible": false,
 
   // Tree Indentation for Explorer
   "workbench.tree.indent": 10,
+
+  // Indent Rainbow Configuration
+  "indentRainbow.colors": [
+    "rgba(255,255,64,0.07)",
+    "rgba(127,255,127,0.07)",
+    "rgba(255,127,255,0.07)",
+    "rgba(79,236,236,0.07)"
+  ],
+  "indentRainbow.errorColor": "rgba(128,32,32,0.6)",
+  "indentRainbow.tabmixColor": "rgba(128,32,96,0.6)",
+  "indentRainbow.ignoreLinePatterns": ["/[ \\t]*[*]/g", "/[ \\t]+[/]{2}/g"],
+  "indentRainbow.ignoreErrorLanguages": ["markdown", "haskell"],
 
   // Prettier Config
   "prettier.proseWrap": "always",
@@ -75,5 +92,83 @@
   "[html]": {
     "editor.defaultFormatter": "vscode.html-language-features"
   },
-  "workbench.activityBar.location": "hidden"
+
+  // Black Formatter for Python
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true
+  },
+
+  // Auto-Close Tag Settings
+  "auto-close-tag.SublimeText3Mode": true,
+
+  // Auto Rename Tag
+  "auto-rename-tag.activationOnLanguage": [
+    "html",
+    "xml",
+    "php",
+    "javascript",
+    "python"
+  ],
+
+  // Better Comments (make sure the extension is installed)
+  "better-comments.tags": [
+    {
+      "tag": "!",
+      "color": "#FF2D00",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "?",
+      "color": "#3498DB",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "//",
+      "color": "#474747",
+      "strikethrough": true,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "todo",
+      "color": "#FF8C00",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "*",
+      "color": "#98C379",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    }
+  ],
+
+  // Code Spell Checker
+  "cSpell.language": "en,de-de",
+
+  // Rainbow CSV Settings
+  "files.associations": {
+    "*.dat": "csv (pipe)",
+    "*.csv": "csv (semicolon)"
+  }
+
+  // Hide Activity Bar (Optional)
+  //"workbench.activityBar.location": "hidden"
 }
