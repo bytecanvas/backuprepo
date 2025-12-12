@@ -1,0 +1,62 @@
+# Installed Android Applications 
+
+- **[3000 Chords](https://play.google.com/store/apps/details?id=com.pocketutilities.a3000chords&hl=en_US)**
+- **[Amaze File Manager](https://f-droid.org/packages/com.amaze.filemanager/)**
+- **[AndroidMic](https://f-droid.org/packages/io.github.teamclouday.AndroidMic/)**
+- **[Anilab](https://anilab.to/)**
+- **[AntennaPod](https://f-droid.org/en/packages/de.danoeh.antennapod/)**
+- **[Apk Analyzer](https://play.google.com/store/apps/details?id=sk.styk.martin.apkanalyzer&hl=en_US)**
+- **[AutomaTag](https://play.google.com/store/apps/details?id=com.fillobotto.mp3tagger&hl=en_US)**
+- **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)**
+- **[BlockSite](https://blocksite.co)**
+- **[Bouncer](https://liteapks.com/bouncer.html)**
+- **[Brave](https://play.google.com/store/apps/details?id=com.brave.browser&hl=en_US)**
+- **[Camera Date Folders](https://f-droid.org/en/packages/de.kromke.andreas.cameradatefolders/)**
+- **[CCleaner](https://liteapks.com/ccleaner.html)**
+- **[ConnectIPS](https://play.google.com/store/apps/details?id=com.infodev.nchl_android&hl=en_US)**
+- **[DeepL](https://play.google.com/store/apps/details?id=com.deepl.mobiletranslator&hl=en_US)**
+- **[DeepSeek](https://play.google.com/store/apps/details?id=com.deepseek.chat&hl=en_US)**
+- **[Der Die Das](https://play.google.com/store/apps/details?id=com.lubosmikusiak.articuli.derdiedas&hl=en_US)**
+- **[dict.cc plus](https://liteapks.com/dict-cc-plus.html)**
+- **[Dolby On](https://play.google.com/store/apps/details?id=com.dolby.dolby234&hl=en_US)**
+- **[DW Learn German](https://play.google.com/store/apps/details?id=com.dw.learngerman&hl=en_US)**
+- **[Equalizer](https://liteapks.com/flat-equalizer-2.html)**
+- **[FadCam](https://f-droid.org/en/packages/com.fadcam/)**
+- **[F-Droid](https://f-droid.org/en/packages/org.fdroid.fdroid/)**
+- **[File Manager](https://f-droid.org/en/packages/org.fossify.filemanager/)**
+- **[Firefox](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/)**
+- **[Foldplay](https://play.google.com/store/apps/details?id=net.pnhdroid.foldplay&hl=en_US)**
+- **[GuitarTuner](https://play.google.com/store/apps/details?id=com.ovelin.guitartuna&hl=en_US)**
+- **[Inshot](https://liteapks.com/inshot-pro-2.html)**
+- **[KDE Connect](https://f-droid.org/en/packages/org.kde.kdeconnect_tp/)**
+- **[Lens](https://play.google.com/store/apps/details?id=com.microsoft.office.officelens&hl=en_US)**
+- **[M365](https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow&hl=en_US)**
+- **[mAuth](https://f-droid.org/en/packages/com.xinto.mauth/)**
+- **[MockGPS](https://github.com/lilstiffy/MockGps)**
+- **[mucke](https://f-droid.org/en/packages/rocks.mucke/)**
+- **[mStudio](https://liteapks.com/mstudio.html)**
+- **[NagarikApp](https://play.google.com/store/apps/details?id=com.yajtech.nagarikapp&hl=en_US)**
+- **[NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/)**
+- **[Niagara Launcher](https://liteapks.com/niagara-launcher.html)**
+- **[OnStream](https://onstreamapks.app/)**
+- **[OpenBoard](https://play.google.com/store/apps/details?id=com.softwarevalencia.openboard.inputmethod.latin&hl=en_US)**
+- **[Pathao](https://play.google.com/store/apps/details?id=com.pathao.user&hl=en_US)**
+- **[Pinterest](https://play.google.com/store/apps/details?id=com.pinterest&hl=en_US)**
+- **[PipePipe](https://f-droid.org/en/packages/InfinityLoop1309.NewPipeEnhanced/)**
+- **[Pix MaterialExpressive](https://liteapks.com/pix-material-expressive-icons.html)**
+- **[Plain App](https://f-droid.org/en/packages/com.ismartcoding.plain/)**
+- **[QUIK](https://f-droid.org/en/packages/dev.octoshrimpy.quik/)**
+- **[RadioDroid](https://f-droid.org/en/packages/net.programmierecke.radiodroid2/)**
+- **[Red Moon](https://f-droid.org/en/packages/com.jmstudios.redmoon/)**
+- **[Scrambled Exif](https://f-droid.org/en/packages/com.jarsilio.android.scrambledeggsif/)**
+- **[Shazam](https://liteapks.com/shazam.html)**
+- **[Simplenote](https://play.google.com/store/apps/details?id=com.automattic.simplenote&hl=en_US)**
+- **[Soundcorset tuner & metronome](https://liteapks.com/tuner-metronome.html)**
+- **[SPlayer](https://play.google.com/store/apps/details?id=com.ttee.leeplayer&hl=en_US)**
+- **[Sportzfy](https://liteapks.com/sportzfy-tv.html) || [Web](https://sportzfy.com/)**
+- **[Time Until](https://liteapks.com/time-until-countdown-widget.html)**
+- **[Transistor](https://f-droid.org/en/packages/org.y20k.transistor/)**
+- **[VLC](https://f-droid.org/en/packages/org.videolan.vlc/)**
+- **[WallpaperExport](https://f-droid.org/en/packages/com.github.cvzi.wallpaperexport/)**
+- **[whoBird](https://f-droid.org/en/packages/org.woheller69.whobird/)**
+- **[WhatsApp](https://play.google.com/store/apps/details?id=com.whatsapp&hl=en_US)**
