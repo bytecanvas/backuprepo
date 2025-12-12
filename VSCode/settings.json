@@ -2,7 +2,7 @@
   "editor.fontFamily": "'FiraCode Nerd Font Mono'",
   "editor.fontLigatures": true,
   "terminal.integrated.fontLigatures.enabled": true,
-  "editor.fontSize": 17,
+  "editor.fontSize": 16,
   "editor.fontWeight": "500",
   "editor.tabSize": 2,
   "editor.wordWrap": "on",
