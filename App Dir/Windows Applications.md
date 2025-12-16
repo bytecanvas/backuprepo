@@ -27,6 +27,7 @@
 - **[MySQL Server](https://www.mysql.com/)**
 - **[Notepad++](https://notepad-plus-plus.org/)**
 - **[Nu Shell](https://www.nushell.sh/)**
+- **[OnlyR](https://github.com/AntonyCorbett/OnlyR)**
 - **[Open Hash Tab](https://github.com/namazso/OpenHashTab)**
 - **[Oracle Virtual Box](https://www.virtualbox.org/)**
 - **[PDF Gear](https://www.pdfgear.com/)**
