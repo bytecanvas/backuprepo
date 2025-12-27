@@ -1,0 +1,94 @@
+{
+  "DE Exam": [
+    "UCHpnIL-1QIUyVhdGVJ6rW3A",
+    "UChbSPv3EGI0AWKJQmas6s7w",
+    "UCJnbHt9SY9lW-fL53Lpa3qQ"
+  ],
+  "DE Grammatik": [
+    "UCkMHiPVq_Zl55BeBofIhXog",
+    "UCZwegPHTG4gvnR0WLzaq5OQ",
+    "UCCAI6jmeW5hWz2-jaLPqLUQ",
+    "UCzxztVPUVqd6iI1wGZcyalg",
+    "UCaeT58uDMlPpBlwAYaxN0LA",
+    "UCMIf10yPu7dGtq0A0uz5Qog"
+  ],
+  "DE Lernen": [
+    "UCxUWIEL-USsiPak0Qy6_vVg",
+    "UCoHNTyRzR_pFV9EpETeUT8A"
+  ],
+  "DE Nachricht": [
+    "UCeqKIgPQfNInOswGRWt48kQ",
+    "UC--klkcCXADczMaxwUJkNgw",
+    "UCt_Y3j8CpXx366et1RaHACA"
+  ],
+  "DE Podcast": [
+    "UC7A-XGHUCnrKeyyiSuyMlOA",
+    "UCbxb2fqe9oNgglAoYqsYOtQ",
+    "UCpROi_90Gg-gOWkYChVgtIg",
+    "UCfICLkXJnzcDDc3I7S6f9QA",
+    "UCKurVrzcrHCSSnMUZ5DCF4A"
+  ],
+  "DE Vokab": [
+    "UCGyOkcUw1b3B_hb5G2klsTg",
+    "UCvpksxRVVDNZqblblF2_2vA",
+    "UCXntXBt2YKBO1xDni0EgjXA"
+  ],
+  "Das Leben und Philosophie": [
+    "UCamZoCFnRkecj3WvCGO_7DQ",
+    "UCZQE69Sj7PpuKVC8PhI4jWQ"
+  ],
+  "ysc_collection": {
+    "DE Exam": "DE Exam",
+    "DE Grammatik": "DE Grammatik",
+    "DE Lernen": "DE Lernen",
+    "DE Nachricht": "DE Nachricht",
+    "DE Podcast": "DE Podcast",
+    "DE Vokab": "DE Vokab",
+    "Das Leben und Philosophie": "Das Leben und Philosophie"
+  },
+  "ysc_deck": [],
+  "ysc_meta": {
+    "DE Exam": {
+      "img": "https://i.imgur.com/lCrIlkW.png"
+    },
+    "DE Grammatik": {
+      "img": "https://i.imgur.com/3d2uDzf.png"
+    },
+    "DE Lernen": {
+      "img": "https://i.imgur.com/kUhIZjO.png"
+    },
+    "DE Nachricht": {
+      "img": "https://i.imgur.com/OCq3OLJ.png"
+    },
+    "DE Podcast": {
+      "img": "https://i.imgur.com/u2bgmIJ.png"
+    },
+    "DE Vokab": {
+      "img": "https://i.imgur.com/BK9KVEv.png"
+    },
+    "Das Leben und Philosophie": {
+      "img": "https://i.imgur.com/hZJzNYG.png"
+    }
+  },
+  "ysc_popup": {
+    "namej24_open": true,
+    "namejan_2022_update": true,
+    "nameny26": true,
+    "namerewiews_popup": true
+  },
+  "ysc_settings": {
+    "install_date": 1760622708183,
+    "lang": "en",
+    "position": 1,
+    "sort_type": "az",
+    "sub_groups": {
+      "DE Exam": {},
+      "DE Grammatik": {},
+      "DE Lernen": {},
+      "DE Nachricht": {},
+      "DE Vokab": {},
+      "Das Leben und Philosophie": {}
+    },
+    "uid": "e589ca5999d0742d00c"
+  }
+}
